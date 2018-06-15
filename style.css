@@ -25,7 +25,7 @@ html, body {
 	padding-bottom:176px;
 }
 header {
-	background:url(../images/header-bg.jpg) no-repeat center top;
+	background:url(header-bg.jpg) no-repeat center top;
 	min-width:940px;
 }
 header .container {
@@ -89,7 +89,7 @@ fieldset {
 	font-size:.857em;
 	padding-bottom:8px;
 	margin-bottom:6px;
-	background:url(../images/divider1.gif) repeat-x left bottom;
+	background:url(divider1.gif) repeat-x left bottom;
 }
 .categories li.last {
 	background:none;
@@ -100,7 +100,7 @@ fieldset {
 	display:block;
 	padding-left:15px;
 	height:1%;
-	background:url(../images/marker.gif) no-repeat left 5px;
+	background:url(marker.gif) no-repeat left 5px;
 }
 .categories li a {
 	text-decoration:none;
@@ -146,7 +146,7 @@ fieldset {
 }
 .sitemap li {
 	padding:0 0 5px 16px;
-	background:url(../images/marker1.gif) no-repeat left 5px;
+	background:url(marker1.gif) no-repeat left 5px;
 }
 .sitemap li ul {
 	padding-top:5px;
@@ -222,7 +222,7 @@ p {
 #banner {
 	width:691px;
 	height:299px;
-	background:url(../images/banner-bg.jpg) no-repeat left top;
+	background:url(banner-bg.jpg) no-repeat left top;
 }
 #banner h2 {
 	color:#fff;
@@ -257,7 +257,7 @@ h1 a {
 	position:absolute;
 	left:0;
 	top:104px;
-	background:url(../images/logo.jpg) no-repeat left top;
+	background:url(logo.jpg) no-repeat left top;
 }
 h2 {
 	font-size:24px;
@@ -309,7 +309,7 @@ header nav ul li {
 	line-height:1.2em;
 	text-transform:uppercase;
 	padding-right:1px;
-	background:url(../images/divider.gif) repeat-y right top;
+	background:url(divider.gif) repeat-y right top;
 }
 header nav ul li.last {
 	background:none;
@@ -332,25 +332,25 @@ header nav ul li a.m1 {
 	width:186px;
 }
 header nav ul li.current a.m1 {
-	background-image:url(../images/m1-act.jpg);
+	background-image:url(m1-act.jpg);
 }
 header nav ul li a.m2 {
 	width:179px;
 }
 header nav ul li.current a.m2 {
-	background-image:url(../images/m2-act.jpg);
+	background-image:url(m2-act.jpg);
 }
 header nav ul li a.m3 {
 	width:208px;
 }
 header nav ul li.current a.m3 {
-	background-image:url(../images/m3-act.jpg);
+	background-image:url(m3-act.jpg);
 }
 header nav ul li a.m4 {
 	width:196px;
 }
 header nav ul li.current a.m4 {
-	background-image:url(../images/m4-act.jpg);
+	background-image:url(m4-act.jpg);
 }
 header nav ul li.last {
 	background:none;
@@ -360,7 +360,7 @@ header nav ul li a.m5 {
 	width:167px;
 }
 header nav ul li.current a.m5 {
-	background-image:url(../images/m5-act.jpg);
+	background-image:url(m5-act.jpg);
 }
 #content .inside {
 	padding:22px 20px 0 29px;
@@ -409,7 +409,7 @@ header nav ul li.current a.m5 {
 	padding-bottom:45px;
 }
 #newsletter-form fieldset {
-	background:url(../images/newsletter-bg.gif) no-repeat left top;
+	background:url(newsletter-bg.gif) no-repeat left top;
 	width:219px;
 	height:131px;
 	overflow:hidden;
@@ -483,7 +483,7 @@ header nav ul li.current a.m5 {
 	overflow:auto;
 }
 footer {
-	background:url(../images/footer-bg.png) no-repeat center top;
+	background:url(footer-bg.png) no-repeat center top;
 	margin-top:-120px;
 	min-width:940px;
 }
